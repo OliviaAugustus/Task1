@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 Git is something.
 <<<<<<< HEAD
 
 Git is what I need to add.
 Now I create a new branch.
 =======
-=======
->>>>>>> parent of a0e174c... second test
 Git is somewhat.
 Git is what I need to add.
 >>>>>>> parent of 6323a56... third test
