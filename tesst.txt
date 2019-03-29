@@ -1,2 +1,3 @@
+Git is something.
 Git is somewhat.
 Git is what I need to add.
